@@ -93,6 +93,11 @@ header .appdowm a img {
   font-weight: 600;
 }
 
+.goods .category .category_title .change_deg {
+  -webkit-transform: rotate(180deg);
+          transform: rotate(180deg);
+}
+
 .goods .category .category_title:hover {
   cursor: pointer;
 }

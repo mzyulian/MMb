@@ -79,6 +79,9 @@ header{
                 font-size: 16px;
                 font-weight: 600;
             }
+            .change_deg{
+                transform: rotate(180deg)
+            }
         }
         .category_title:hover{
             cursor: pointer;

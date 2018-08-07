@@ -44,8 +44,7 @@ onload=function () {
              }else{
                 _self.next()[0].classList.add('hide'); 
                 _self.next().attr("data-flag","true");              
-             }
-            
+             }          
           })
      }   
  }
